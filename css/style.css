@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{ background:url(../images/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9.png);}
+
+#wrapper{ width:940px; height:1600px; margin:0 auto; padding:0 30px; padding-top:50px;}
+
+#header{ width:940px; height:137px;}
+
+#logo{ width:246px; height:57px; float:left;}
+
+.sign{ float:right; margin-top:15px;}
+.sign img{ padding-left:20px;}
+
+#menu{ width:940px; height:60px; background:url(../images/menu_bg.png) repeat-x; margin-top:30px;}
+#menu ul{}
+#menu ul li{ float:left; min-width:50px; padding:5px 26px; line-height:50px; background:url(../images/fasel_menu.png) no-repeat right;}
+#menu ul li:last-child{ background:0;}
+#menu ul li a{ text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:14px; color:#000; font-weight:bold;}
+#menu ul li:hover a{ color:#f1f1f1;}
+
+
+#slider{ width:940px; height:509px; margin-top:10px;}
+#slider img{ width:940px; height:509px;}
+
+#body{ width:940px; padding-top:550px;}
+#latest{ width:940px; height:60px; background:url(../images/latest_bg.png) repeat-x; line-height:60px;}
+#latest h1{ font-family:Verdana, Geneva, sans-serif; font-size:20px; color:#f1f1f1; margin-left:35px;}
+
+#cont{ width:940px;}
+.conts{ width:220px; height:250px; float:left; margin-left:12px; margin-bottom:50px; margin-top:30px; border-bottom:1px solid#404040;}
+.conts img{ width:220px; height:138px;}
+.conts h1{ font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#f1f1f1; margin-top:20px;}
+.conts p{ font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#959595; text-align:justify; margin-top:10px; line-height:15px;}
+
+.conts a img{ width:90px; height:30px; float:right; margin-top:50px; }
+.conts h2{ font-family:Verdana, Geneva, sans-serif; font-size:20px; color:#f1f1f1; margin-top:53px;}
+
+#footer{ width:940px; height:70px; border-bottom:1px solid#404040; padding-top:650px;}
+#footer ul{}
+#footer ul li{ float:left; margin-right:2px; margin-top:90px;}
+#footer ul li a{ text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#959595;}
+#footer ul li:first-child a{ color:#f1f1f1;}
+#footer ul li:hover a{ color:#f1f1f1;}
+
+#footer h1{ font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#959595; float:left; margin-top:93px; margin-left:135px;}
+#footer a img{ float:right;  margin-top:88px;}
+#footer img{ padding-left:5px;}
+
+
+
+.clear{ width:1000px; height:1px; clear:both;}
+
+
+
+
+
+
